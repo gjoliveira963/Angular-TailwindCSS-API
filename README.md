@@ -7,7 +7,7 @@
 
 ## 📝 Sobre o Projeto
 
-Uma aplicação web moderna e responsiva desenvolvida com Angular 16+ e TailwindCSS, demonstrando uma arquitetura frontend robusta e escalável. O projeto implementa autenticação segura, rotas protegidas e integração com APIs RESTful, servindo como um excelente exemplo de desenvolvimento web moderno.
+Uma aplicação web moderna e responsiva desenvolvida com Angular e TailwindCSS, demonstrando uma arquitetura frontend robusta e escalável. O projeto implementa autenticação segura, rotas protegidas e integração com APIs RESTful, servindo como um excelente exemplo de desenvolvimento web moderno.
 
 ### ✨ Destaques do Projeto
 
