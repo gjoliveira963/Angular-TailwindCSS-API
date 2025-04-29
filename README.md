@@ -1,4 +1,4 @@
-# 🌟 Angular-TailwindCSS-API
+# 🌟 CRUD de Lugares com Angular e Tailwind CSS
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
